@@ -1,4 +1,4 @@
-# Distributed-BloomFilter
+# Distributed Bloom Filter
 
 ## Introduction
 This project presents a solution for implementing a distributed Bloom Filter using the map-reduce approach on Hadoop and Spark frameworks. The data used to create and populate the Bloom Filters comes from an IMDb dataset on movie ratings, with ten Bloom Filters being created to correspond with the IMDb rating scale of 1-10.
